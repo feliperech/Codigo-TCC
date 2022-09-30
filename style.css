@@ -42,11 +42,6 @@ body {
   border-radius: 10px;
 }
 
-#licoes_a_aprender {
-  text-align: justify;
-  border: 5px solid green;
-  border-radius: 10px;
-}
 
 h2 {
   text-align: center;
@@ -140,20 +135,11 @@ li {
   margin: auto;
 }
 
-.table {
-  margin: 2% 40% 2% 25%;
-  width: 50%;
-  font-family: Montserrat, sans-serif;
-  font-size: larger;
-  text-align: center;
-  color: green;
-}
-
 .linker-article {
   margin: 1% 10%; 
   line-height: normal;
 }
 
 .ajusta-margem{
-
+  margin-left: 25%;
 }
