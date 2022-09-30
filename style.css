@@ -77,7 +77,6 @@ li {
   font-size: xx-large;
   color: whitesmoke;
   background-color: yellowgreen;
-  border: 100px;
   border-radius: 10px;
 }
 
@@ -87,7 +86,6 @@ li {
   font-size: xx-large;
   color: whitesmoke;
   background-color: red;
-  border: 100px;
   border-radius: 10px;
 }
 
@@ -97,7 +95,6 @@ li {
   font-size: xx-large;
   color: whitesmoke;
   background-color: rgb(110, 197, 231);
-  border: 100px;
   border-radius: 10px;
 }
 
@@ -106,8 +103,7 @@ li {
   text-align: center;
   font-size: xx-large;
   color: whitesmoke;
-  background-color: purple;
-  border: 100px;
+  background-color: rgb(98, 0, 128);
   border-radius: 10px;
 }
 
