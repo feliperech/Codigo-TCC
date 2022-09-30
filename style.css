@@ -31,9 +31,8 @@ body {
 
 #logo {
   text-align: center;
-  margin: 10% 30% 5% 30%;
   border-radius: 10px;
-  width: 40%;
+  width: 90%;
 }
 
 #lista-porque {
@@ -91,23 +90,19 @@ li {
   border-radius: 10px;
 }
 
-.main-config {
-  font-family: Montserrat, sans-serif;
-  flex: 1;
-}
 
 .lado-direito {
   display: inline-block;
   position: absolute;
   text-align: justify;
-  margin: 2% 15% 2% 5%;
+  margin: 10% 15% 2% 5%;
   width: 33%;
 }
 
 .lado-esquerdo {
   display: inline-block;
   position: relative;
-  margin: 2% 5% 2% 15%;
+  margin: 10% 5% 2% 15%;
   text-align: justify;
   width: 33%;
 }
