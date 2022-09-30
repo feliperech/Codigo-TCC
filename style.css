@@ -31,15 +31,9 @@ body {
 
 #logo {
   text-align: center;
-  margin: 5% 40%;
-  border: 10px solid green;
+  margin: 10% 30% 5% 30%;
   border-radius: 10px;
-  width: 20%;
-}
-
-#picture-title {
-  text-align: center;
-  margin-bottom: 10%;
+  width: 40%;
 }
 
 #licoes_aprendidas {
