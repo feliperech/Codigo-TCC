@@ -74,25 +74,20 @@ li {
   display: block;
 }
 
-.un-list {
-  margin: 1% 26%;
-  display: block;
-}
+
 
 #link-ativar {
   width: auto;
-  margin: 2% 10% 2% 30%;
   text-align: center;
   font-size: xx-large;
   color: whitesmoke;
-  background-color: green;
+  background-color: yellowgreen;
   border: 100px;
   border-radius: 10px;
 }
 
 #link-desligar {
   width: auto;
-  margin: 2% 10% 2% 30%;
   text-align: center;
   font-size: xx-large;
   color: whitesmoke;
@@ -103,22 +98,20 @@ li {
 
 #link-consumo {
   width: auto;
-  margin: 2% 10% 2% 30%;
   text-align: center;
   font-size: xx-large;
   color: whitesmoke;
-  background-color: yellowgreen;
+  background-color: rgb(110, 197, 231);
   border: 100px;
   border-radius: 10px;
 }
 
 #link-umidade {
   width: auto;
-  margin: 2% 10% 2% 30%;
   text-align: center;
   font-size: xx-large;
   color: whitesmoke;
-  background-color: yellowgreen;
+  background-color: purple;
   border: 100px;
   border-radius: 10px;
 }
@@ -159,4 +152,8 @@ li {
 .linker-article {
   margin: 1% 10%; 
   line-height: normal;
+}
+
+.ajusta-margem{
+
 }
