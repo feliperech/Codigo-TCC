@@ -36,7 +36,8 @@ body {
   width: 40%;
 }
 
-#licoes_aprendidas {
+#lista-porque {
+  font-size: xx-large;
   text-align: justify;
   border: 5px solid green;
   border-radius: 10px;
@@ -50,6 +51,7 @@ body {
 
 h2 {
   text-align: center;
+  font-size: xx-large;
   margin: 2% 5%;
   color: whitesmoke;
   background-color: green;
