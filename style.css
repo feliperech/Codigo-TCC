@@ -1,0 +1,139 @@
+body {
+  background-color: rgb(253, 251, 251);
+  margin: 0;
+}
+
+#cabecalho {
+  top: 0;
+  left: 0;
+  right: 0;
+  width: 100%;
+  font-size: xx-large;
+  background-color: rgb(5, 248, 5);
+  text-align: center;
+  position: fixed;
+  z-index: 1;
+}
+
+#titulo {
+  margin: 0%;
+  text-align: center;
+  color: rgb(255, 244, 222);
+  background-color: green;
+}
+
+#rodape {
+  margin-top: 10%;
+  text-align: center;
+  color: green;
+  font-size: large;
+}
+
+#logo {
+  text-align: center;
+  margin: 5% 40%;
+  border: 10px solid green;
+  border-radius: 10px;
+  width: 20%;
+}
+
+#picture-title {
+  text-align: center;
+  margin-bottom: 10%;
+}
+
+#licoes_aprendidas {
+  text-align: justify;
+  border: 5px solid green;
+  border-radius: 10px;
+}
+
+#licoes_a_aprender {
+  text-align: justify;
+  border: 5px solid green;
+  border-radius: 10px;
+}
+
+h2 {
+  text-align: center;
+  margin: 2% 5%;
+  color: whitesmoke;
+  background-color: green;
+  border-radius: 20px;
+}
+
+h3 {
+  text-align: center;
+  margin: 5% 30%;
+  color: whitesmoke;
+  background-color: green;
+  border-radius: 10px;
+}
+
+li {
+  margin: 1px 10px;
+}
+
+.ord-list {
+  margin: 1% 26%;
+  display: block;
+}
+
+.un-list {
+  margin: 1% 26%;
+  display: block;
+}
+
+#link-trybe {
+  margin: 2% 45%;
+  width: 15%;
+  text-align: center;
+  font-size: larger;
+  color: whitesmoke;
+  background-color: green;
+  border: 100px;
+  border-radius: 10px;
+}
+
+.main-config {
+  font-family: Montserrat, sans-serif;
+  flex: 1;
+}
+
+.lado-direito {
+  display: inline-block;
+  position: absolute;
+  text-align: justify;
+  margin: 2% 15% 2% 5%;
+  width: 33%;
+}
+
+.lado-esquerdo {
+  display: inline-block;
+  position: relative;
+  margin: 2% 5% 2% 15%;
+  text-align: justify;
+  width: 33%;
+}
+
+.art-section {
+  font-family: Montserrat, sans-serif;
+  width: 100%;
+  padding: 0%;
+  border: 2px solid wheat;
+  margin: auto;
+}
+
+.table {
+  margin: 2% 40% 2% 25%;
+  width: 50%;
+  font-family: Montserrat, sans-serif;
+  font-size: larger;
+  text-align: center;
+  color: green;
+}
+
+.linker-article {
+  margin: 1% 10%; 
+  line-height: normal;
+}
