@@ -79,17 +79,49 @@ li {
   display: block;
 }
 
-#link-trybe {
-  margin: 2% 45%;
-  width: 15%;
+#link-ativar {
+  width: auto;
+  margin: 2% 10% 2% 30%;
   text-align: center;
-  font-size: larger;
+  font-size: xx-large;
   color: whitesmoke;
   background-color: green;
   border: 100px;
   border-radius: 10px;
 }
 
+#link-desligar {
+  width: auto;
+  margin: 2% 10% 2% 30%;
+  text-align: center;
+  font-size: xx-large;
+  color: whitesmoke;
+  background-color: red;
+  border: 100px;
+  border-radius: 10px;
+}
+
+#link-consumo {
+  width: auto;
+  margin: 2% 10% 2% 30%;
+  text-align: center;
+  font-size: xx-large;
+  color: whitesmoke;
+  background-color: yellowgreen;
+  border: 100px;
+  border-radius: 10px;
+}
+
+#link-umidade {
+  width: auto;
+  margin: 2% 10% 2% 30%;
+  text-align: center;
+  font-size: xx-large;
+  color: whitesmoke;
+  background-color: yellowgreen;
+  border: 100px;
+  border-radius: 10px;
+}
 
 .lado-direito {
   display: inline-block;
